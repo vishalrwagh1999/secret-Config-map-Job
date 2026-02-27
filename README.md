@@ -1,1 +1,1 @@
-d
+secret + Config map + Job
